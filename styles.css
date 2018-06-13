@@ -1,4 +1,60 @@
 body{
     background-image: url("images/green.png");
     font-family: 'Karla', sans-serif;
+    width:70%;
+}
+
+img{
+    float:right;
+    border: 2px solid violet;
+    border-radius: 3px;
+}
+
+h1{
+    font-size: 70px;
+    font-family: 'Montserrat Subrayada', sans-serif;
+    text-align:center;
+    color:#EE7330;
+    border: 2px solid violet;
+    border-radius: 3px;
+   
+}
+
+.right{
+    margin: 0 0 0 10px;
+    padding:3px;
+    border: 2px solid #18E76B;
+}
+
+.left{
+    margin-left: 10px;
+}
+
+h2 em{
+    border: 2px solid #18E76B;
+    border-radius: 2px;
+    
+}
+
+header{
+    margin: 0 auto;
+}
+
+footer{
+    text-align: center;
+}
+
+.one {
+    border: 2px solid #18E76B;
+    color: green;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.two {
+    border: 2px solid violet;
+    color: violet;
+    text-decoration: none;
+    border-radius: 5px;
+
 }
